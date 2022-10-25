@@ -114,7 +114,7 @@ function Nav() {
       <Public>Public</Public>
       <PublicContent>
         <Questions>
-          <FaGlobeAsia size={30} />
+          <FaGlobeAsia size={31} />
           &nbsp;Questions
         </Questions>
         <Tags>Tags</Tags>
