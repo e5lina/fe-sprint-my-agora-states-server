@@ -76,7 +76,7 @@ function TagsBox() {
     <Boxs>
       <CustomBox>
         <CustomTxt>Custom Filters</CustomTxt>
-        <CB>Create a custom filters</CB>
+        <CB>dCreate a custom filters</CB>
       </CustomBox>
       <WatchedBox>
         <WatchedTxt>Watched Tags</WatchedTxt>
